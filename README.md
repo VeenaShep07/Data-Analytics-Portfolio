@@ -8,6 +8,6 @@ My main data analytics projects
 ## Projects
 
 ### Project 1: Data Analysis with Python
-[View Notebook](Python coding)  
+[View Notebook](Python%20coding)  
 
 This project demonstrates data analysis using Python with pandas, numpy, and matplotlib libraries for data manipulation and visualisation.
