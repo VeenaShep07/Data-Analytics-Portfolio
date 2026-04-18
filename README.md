@@ -7,3 +7,10 @@ My main data analytics projects
 [View Notebook](Python-coding.ipynb)  
 
 This project demonstrates data analysis using Python with pandas, numpy, and matplotlib libraries for data manipulation and visualisation.
+
+
+## Project 2: Excel Sales Data Analysis
+
+![Excel Sales Data](Excel%201.png)
+
+This spreadsheet contains sales transaction data with customer information, product categories, and sales metrics.
