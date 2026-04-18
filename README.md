@@ -9,9 +9,8 @@ My main data analytics projects
 This project demonstrates data analysis using Python with pandas, numpy, and matplotlib libraries for data manipulation and visualisation.
 
 
-
 ---
-
+<br><br><br>
 
 ## Project 2: Excel Sales Data Analysis
 
