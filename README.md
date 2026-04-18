@@ -1,8 +1,6 @@
 # Data-Analytics-Portfolio
 My main data analytics projects
 
-# Data-Analytics-Portfolio
-
 My main data analytics projects
 
 ## Projects
