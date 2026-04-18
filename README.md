@@ -11,6 +11,6 @@ This project demonstrates data analysis using Python with pandas, numpy, and mat
 
 ## Project 2: Excel Sales Data Analysis
 
-![Excel Sales Data](Excel%201.png)
+![Excel Sales Data](Exccel%201.png)
 
 This spreadsheet contains sales transaction data with customer information, product categories, and sales metrics.
