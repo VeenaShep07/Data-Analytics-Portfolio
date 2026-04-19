@@ -1,7 +1,7 @@
 # Data-Analytics-Portfolio
 My main data analytics projects
 
-## Projects
+## Projects 
 
 ### Project 1: Data Cleaning and visuals with Python
 [View Notebook](Python-coding.ipynb)  
